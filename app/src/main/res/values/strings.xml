@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemeCreator</string>
+    <string name="button_text">Share</string>
+    <string name="edit_text">What\'s on your mind?</string>
+</resources>
