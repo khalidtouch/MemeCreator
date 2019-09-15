@@ -1,2 +1,0 @@
-# MemeCreator
-testing fragments
